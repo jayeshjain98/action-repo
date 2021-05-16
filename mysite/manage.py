@@ -5,6 +5,7 @@ import sys
 """Added new comment for webhook testing"""
 """Added new comment for webhook testing"""
 
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
