@@ -6,7 +6,6 @@ import sys
 """Added new comment for webhook testing"""
 """Added new comment for webhook testing"""
 """Added new comment for webhook testing"""
-"""Added new comment for webhook testing"""
 
 
 def main():
