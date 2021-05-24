@@ -7,8 +7,7 @@ import sys
 """ this is a test comment for webhook testing """
 """ this is a test comment for webhook testing """
 """ this is a test comment for webhook testing """
-""" this is a test comment for webhook testing """
-""" this is a test comment for webhook testing """
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
