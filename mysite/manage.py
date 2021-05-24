@@ -5,7 +5,6 @@ import sys
 """ this is a test comment for webhook testing """
 """ this is a test comment for webhook testing """
 """ this is a test comment for webhook testing """
-""" this is a test comment for webhook testing """
 
 def main():
     """Run administrative tasks."""
